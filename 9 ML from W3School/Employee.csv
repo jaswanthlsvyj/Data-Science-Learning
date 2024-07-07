@@ -1,9 +1,3 @@
-﻿Empid,Name,Age,City,Salary
-100,Ritesh,25,Mumbai,15000
-101,Aakash,26,Goa,16000
-,,,,
-102,Mahima,27,Hyderabad,20000
-103,Lakshay,25,Delhi,18000
-104,Manu,23,Mumbai,25000
-105,Nidhi,26,Delhi,
-106,Geetu,30,Bangalore,28000
+version https://git-lfs.github.com/spec/v1
+oid sha256:074911b1d6b8c963132706a6bded7d49d1a7b73730e572e7716f3a495071b8ce
+size 224
