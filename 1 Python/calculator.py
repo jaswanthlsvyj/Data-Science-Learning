@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a239f13db8231d5cb9392ceaf53cbcd260238e95cb704565e442e13a7ea16ae0
-size 181
+# defining the constant var in the file
+CONSTANT = 'Jaswanth'
+
+def add(a,b):
+    return a+b
+
+def sub(a,b):
+    return a-b
+
+def mul(a,b):
+    return a*b
+
+def div(a,b):
+    return a/b

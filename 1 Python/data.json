@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9aa7d11e0dd9233b1e1341a99c3feef8bd791f89cd3d10197cd8f5c881657aa6
-size 76
+{
+    "name": "jatin", 
+    "marks": 90, 
+    "subjects": ["eng", "maths"]
+}

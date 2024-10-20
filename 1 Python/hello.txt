@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a0a58cf31bb426910fdd5313ed628fd758363eb2224f3107ea7031f84f03f1b5
-size 76
+Hello this is jaswanth, how its going? 
+I know ur good and how is ur studies
